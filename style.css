@@ -1,0 +1,141 @@
+body {
+
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+
+background-color: #C9C9C9; 
+
+width: 70%;   
+
+margin-right: auto; 
+
+margin-left: auto;
+
+height: 200px;
+
+background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif);
+    
+padding-top: 50px;
+
+}
+
+h1 {
+
+font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+
+font-size: 60px;
+
+color: rgba(242,242,242,1);
+
+text-align: center;
+
+padding-top: 260px;
+
+}
+
+nav ul {
+
+list-style-type: none;
+
+text-align: center;
+
+min-height: 0px;
+
+margin-top: -61px;
+
+margin-right: -2px;
+
+margin-left: -40px;
+
+}
+
+a {
+
+font-weight: bold;
+
+text-decoration: none;
+
+}
+
+a:link {
+
+color: #7C7C7C;
+
+}
+
+a:visited {
+
+color: #4B4B4B;
+
+}
+
+a:hover, a:active, a:focus {
+
+color: #3CE9B7;
+
+text-decoration: underline;
+
+}
+
+nav a {
+
+width: 20%;
+
+display: block;
+
+float: left;
+
+background-color: #FDFDFD;
+
+color: #FFAE00;
+
+text-transform: uppercase;
+
+padding-top: 6px;
+
+padding-bottom: 6px;
+
+margin-right: -3px;
+
+padding-right: 2px;
+
+}
+
+nav a:hover, nav a:active, nav a:focus, nav a.thispage {
+
+text-decoration: none;
+
+background-color: #FFD011;
+
+color:#000000;
+
+}
+
+section {
+
+height: 600px;
+
+text-align: center;  
+
+background-color: rgba(0,0,100,.7);
+
+background-image: url("https://media.giphy.com/media/KDWN1vyBOMhfmVtQsa/giphy.gif");
+
+background-repeat: space;
+
+background-position: 50% 50%;
+
+}
+
+footer {
+
+text-align: center;
+
+color: #000000;
+
+font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+
+background-color: #FFFFFF;
+
+padding-top: 30px;
+
+}
